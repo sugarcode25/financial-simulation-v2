@@ -1,0 +1,25 @@
+Ticker,Dato,Valor,Etiqueta,Reporte
+C,UPA diluida,5.94,us-gaap:EarningsPerShareDiluted,10-K
+C,Acciones diluidas,1940100000.0,us-gaap:WeightedAverageNumberOfDilutedSharesOutstanding,10-K
+C,Utilidad neta,12833000000.0,us-gaap:ProfitLoss,10-K
+C,Activos,2352945000000.0,us-gaap:Assets,10-K
+C,Pasivos,2143579000000.0,us-gaap:Liabilities,10-K
+C,Patrimonio,209366000000.0,us-gaap:StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,10-K
+PYPL,UPA diluida,3.99,us-gaap:EarningsPerShareDiluted,10-K
+PYPL,Acciones diluidas,1039000000.0,us-gaap:WeightedAverageNumberOfDilutedSharesOutstanding,10-K
+PYPL,Utilidad neta,4147000000.0,us-gaap:NetIncomeLoss,10-K
+PYPL,Activos,81611000000.0,us-gaap:Assets,10-K
+PYPL,Pasivos,61194000000.0,us-gaap:Liabilities,10-K
+PYPL,Patrimonio,20417000000.0,us-gaap:StockholdersEquity,10-K
+HOOD,UPA diluida,1.56,us-gaap:EarningsPerShareDiluted,10-K
+HOOD,Acciones diluidas,906171504.0,us-gaap:WeightedAverageNumberOfDilutedSharesOutstanding,10-K
+HOOD,Utilidad neta,1411000000.0,us-gaap:NetIncomeLoss,10-K
+HOOD,Activos,26187000000.0,us-gaap:Assets,10-K
+HOOD,Pasivos,18215000000.0,us-gaap:Liabilities,10-K
+HOOD,Patrimonio,7972000000.0,us-gaap:StockholdersEquity,10-K
+NU,UPA diluida,0.4034,ifrs-full:DilutedEarningsLossPerShare,20-F
+NU,Acciones diluidas,4888918000.0,ifrs-full:AdjustedWeightedAverageShares,20-F
+NU,Utilidad neta,1972112000.0,ifrs-full:ProfitLoss,20-F
+NU,Activos,49931214000.0,ifrs-full:Assets,20-F
+NU,Pasivos,42284138000.0,ifrs-full:Liabilities,20-F
+NU,Patrimonio,7647076000.0,ifrs-full:Equity,20-F

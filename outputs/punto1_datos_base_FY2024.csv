@@ -1,0 +1,13 @@
+Empresa,Concepto,Valor_USD,Etiqueta,Formulario,Radicado
+C,Activos,2352945000000.0,us-gaap:Assets,10-K,2025-02-21
+C,Pasivos,2143579000000.0,us-gaap:Liabilities,10-K,2025-02-21
+C,Patrimonio,209366000000.0,us-gaap:StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,10-K,2025-02-21
+C,Ingresos,81139000000.0,us-gaap:Revenues,10-K,2025-02-21
+C,Utilidad,12833000000.0,us-gaap:ProfitLoss,10-K,2025-02-21
+C,GastoIntereses,,NO ENCONTRADO,,
+NU,Activos,49931214000.0,ifrs-full:Assets,20-F,2025-04-16
+NU,Pasivos,42284138000.0,ifrs-full:Liabilities,20-F,2025-04-16
+NU,Patrimonio,7647076000.0,ifrs-full:Equity,20-F,2025-04-16
+NU,Ingresos,11517075000.0,ifrs-full:Revenue,20-F,2025-04-16
+NU,Utilidad,1972112000.0,ifrs-full:ProfitLoss,20-F,2025-04-16
+NU,GastoIntereses,2834859000.0,ifrs-full:InterestExpense,20-F,2025-04-16

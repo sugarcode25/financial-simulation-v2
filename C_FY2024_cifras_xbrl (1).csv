@@ -1,0 +1,366 @@
+taxonomia,etiqueta,descripcion,unidad,end,val,accn,fy,fp,form,filed,frame,start
+srt,PayablesToBrokerDealersAndClearingOrganizations,"Broker-Dealer, Payable to Other Broker-Dealer and Clearing Organization",USD,2024-12-31,14608000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+srt,PayablesToCustomers,"Broker-Dealer, Payable to Customer",USD,2024-12-31,51993000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,AccumulatedOtherComprehensiveIncomeLossNetOfTax,"Accumulated Other Comprehensive Income (Loss), Net of Tax",USD,2024-12-31,-47852000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,AdditionalCollateralAggregateFairValue,"Additional Collateral, Aggregate Fair Value",USD,2024-12-31,200000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,AdditionalPaidInCapital,Additional Paid in Capital,USD,2024-12-31,109117000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,AdjustmentsToReconcileNetIncomeLossToCashProvidedByUsedInOperatingActivities,Adjustments to Reconcile Net Income (Loss) to Cash Provided by (Used in) Operating Activities,USD,2024-12-31,-32353000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,AmortizationOfIntangibleAssets,Amortization of Intangible Assets,USD,2024-12-31,371000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,Assets,Assets,USD,2024-12-31,2352945000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,CapitalRequiredForCapitalAdequacyToRiskWeightedAssets,"Banking Regulation, Total Risk-Based Capital Ratio, Capital Adequacy, Minimum",pure,2024-12-31,0.08,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,CarryingValueOfFederalFundsPurchasedSecuritiesSoldUnderAgreementsToRepurchaseAndDepositsReceivedForSecuritiesLoaned,"Carrying Value of Federal Funds Purchased, Securities Sold under Agreements to Repurchase, and Deposits Received for Securities Loaned",USD,2024-12-31,254755000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,CarryingValueOfFederalFundsSoldSecuritiesPurchasedUnderAgreementsToResellAndDepositsPaidForSecuritiesBorrowed,"Carrying Value of Federal Funds Sold, Securities Purchased under Agreements to Resell, and Deposits Paid for Securities Borrowed",USD,2024-12-31,274062000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,CarryingValueOfSecuritiesPurchasedUnderAgreementsToResellAndDepositsPaidForSecuritiesBorrowed,Carrying Value of Securities Purchased under Agreements to Resell and Deposits Paid for Securities Borrowed,USD,2024-12-31,274065000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,CarryingValueOfSecuritiesSoldUnderRepurchaseAgreementsAndDepositsReceivedForSecuritiesLoaned,Carrying Value of Securities Sold under Repurchase Agreements and Deposits Received for Securities Loaned,USD,2024-12-31,254755000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,CashAndDueFromBanks,Cash and Due from Banks,USD,2024-12-31,22782000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,"Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",USD,2024-12-31,276532000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect,"Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",USD,2024-12-31,15600000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,CashFlowHedgeGainLossToBeReclassifiedWithinTwelveMonths,Cash Flow Hedge Gain (Loss) to be Reclassified within Twelve Months,USD,2024-12-31,-500000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024,2024-01-01
+us-gaap,CollateralAlreadyPostedAggregateFairValue,"Collateral Already Posted, Aggregate Fair Value",USD,2024-12-31,13000000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,CommercialPaper,Commercial Paper,USD,2024-12-31,28916000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,CommonStockParOrStatedValuePerShare,"Common Stock, Par or Stated Value Per Share",USD/shares,2024-12-31,0.01,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,CommonStockSharesAuthorized,"Common Stock, Shares Authorized",shares,2024-12-31,6000000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,CommonStockSharesIssued,"Common Stock, Shares, Issued",shares,2024-12-31,3099719006.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,CommonStockValue,"Common Stock, Value, Issued",USD,2024-12-31,31000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,CommunicationsAndInformationTechnology,Communications and Information Technology,USD,2024-12-31,9035000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,ComprehensiveIncomeNetOfTax,"Comprehensive Income (Loss), Net of Tax, Attributable to Parent",USD,2024-12-31,9630000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest,"Comprehensive Income (Loss), Net of Tax, Including Portion Attributable to Noncontrolling Interest",USD,2024-12-31,9720000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,CreditDerivativeMaximumExposureUndiscounted,"Credit Derivative, Maximum Exposure, Undiscounted",USD,2024-12-31,439146000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,CreditRiskDerivativeAssetsAtFairValue,"Credit Risk Derivative Assets, at Fair Value",USD,2024-12-31,8715000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,CreditRiskDerivativeLiabilitiesAtFairValue,"Credit Risk Derivative Liabilities, at Fair Value",USD,2024-12-31,7253000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,CurrentFederalTaxExpenseBenefit,Current Federal Tax Expense (Benefit),USD,2024-12-31,-33000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,CurrentForeignTaxExpenseBenefit,Current Foreign Tax Expense (Benefit),USD,2024-12-31,5945000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,CurrentIncomeTaxExpenseBenefit,Current Income Tax Expense (Benefit),USD,2024-12-31,6107000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,CurrentStateAndLocalTaxExpenseBenefit,Current State and Local Tax Expense (Benefit),USD,2024-12-31,195000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,DebtAndEquitySecuritiesGainLoss,"Debt and Equity Securities, Gain (Loss)",USD,2024-12-31,328000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,DebtSecuritiesAvailableForSaleContinuousUnrealizedLossPosition12MonthsOrLonger,"Debt Securities, Available-for-sale, Continuous Unrealized Loss Position, 12 Months or Longer",USD,2024-12-31,33848000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DebtSecuritiesAvailableForSaleContinuousUnrealizedLossPosition12MonthsOrLongerAccumulatedLoss,"Debt Securities, Available-for-sale, Continuous Unrealized Loss Position, 12 Months or Longer, Accumulated Loss",USD,2024-12-31,1495000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DebtSecuritiesAvailableForSaleContinuousUnrealizedLossPositionLessThan12Months,"Debt Securities, Available-for-sale, Continuous Unrealized Loss Position, Less than 12 Months",USD,2024-12-31,82905000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DebtSecuritiesAvailableForSaleContinuousUnrealizedLossPositionLessThan12MonthsAccumulatedLoss,"Debt Securities, Available-for-sale, Continuous Unrealized Loss Position, Less than 12 Months, Accumulated Loss",USD,2024-12-31,1037000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DebtSecuritiesAvailableForSaleRestricted,"Debt Securities, Available-for-sale, Restricted",USD,2024-12-31,5389000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DebtSecuritiesAvailableForSaleUnrealizedLossPosition,"Debt Securities, Available-for-sale, Unrealized Loss Position",USD,2024-12-31,116753000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DebtSecuritiesAvailableForSaleUnrealizedLossPositionAccumulatedLoss,"Debt Securities, Available-for-sale, Unrealized Loss Position, Accumulated Loss",USD,2024-12-31,2532000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DebtSecuritiesTradingRestricted,"Debt Securities, Trading, Restricted",USD,2024-12-31,193291000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DeferredFederalIncomeTaxExpenseBenefit,Deferred Federal Income Tax Expense (Benefit),USD,2024-12-31,-1227000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,DeferredForeignIncomeTaxExpenseBenefit,Deferred Foreign Income Tax Expense (Benefit),USD,2024-12-31,-816000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,DeferredIncomeTaxExpenseBenefit,Deferred Income Tax Expense (Benefit),USD,2024-12-31,-1896000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,DeferredStateAndLocalIncomeTaxExpenseBenefit,Deferred State and Local Income Tax Expense (Benefit),USD,2024-12-31,147000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,DeferredTaxAssetsGross,"Deferred Tax Assets, Gross",USD,2024-12-31,39096000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DeferredTaxAssetsLiabilitiesNet,"Deferred Tax Assets, Net",USD,2024-12-31,29845000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DeferredTaxAssetsNet,"Deferred Tax Assets, Net of Valuation Allowance",USD,2024-12-31,34767000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DeferredTaxAssetsOther,"Deferred Tax Assets, Other",USD,2024-12-31,5993000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DeferredTaxAssetsPropertyPlantAndEquipment,"Deferred Tax Assets, Property, Plant and Equipment",USD,2024-12-31,4878000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DeferredTaxAssetsTaxDeferredExpenseCompensationAndBenefits,"Deferred Tax Assets, Tax Deferred Expense, Compensation and Benefits",USD,2024-12-31,2407000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DeferredTaxAssetsTaxDeferredExpenseReservesAndAccrualsProvisionForLoanLosses,"Deferred Tax Assets, Tax Deferred Expense, Reserves and Accruals, Provision for Loan Losses",USD,2024-12-31,5477000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DeferredTaxAssetsValuationAllowance,"Deferred Tax Assets, Valuation Allowance",USD,2024-12-31,4329000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DeferredTaxLiabilities,"Deferred Tax Liabilities, Net",USD,2024-12-31,4922000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DeferredTaxLiabilitiesOther,"Deferred Tax Liabilities, Other",USD,2024-12-31,1689000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DeferredTaxLiabilitiesUndistributedForeignEarnings,"Deferred Tax Liabilities, Undistributed Foreign Earnings",USD,2024-12-31,893000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DefinedBenefitPlanAssumptionsUsedCalculatingNetPeriodicBenefitCostExpectedLongTermReturnOnAssets,"Defined Benefit Plan, Assumptions Used Calculating Net Periodic Benefit Cost, Expected Long-term Rate of Return on Plan Assets",pure,2024-12-31,0.03,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,DefinedBenefitPlanNetPeriodicBenefitCost,"Defined Benefit Plan, Net Periodic Benefit Cost (Credit)",USD,2024-12-31,28000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,DefinedContributionPlanEmployerMatchingContributionPercent,"Defined Contribution Plan, Employer Matching Contribution, Percent of Employees' Gross Pay",pure,2024-12-31,0.06,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,Deposits,Deposits,USD,2024-12-31,1284458000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DepositsDomestic,"Deposits, Domestic",USD,2024-12-31,674885000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DepositsForeign,"Deposits, Foreign",USD,2024-12-31,609573000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DepositsPaidForSecuritiesBorrowedAtCarryingValue,"Deposits Paid for Securities Borrowed, at Carrying Value",USD,2024-12-31,81115000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DepositsReceivedForSecuritiesLoanedAtCarryingValue,"Deposits Received for Securities Loaned, at Carrying Value",USD,2024-12-31,14988000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DepreciationAmortizationAndAccretionNet,"Depreciation, Amortization and Accretion, Net",USD,2024-12-31,4311000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,DerivativeAssetCollateralObligationToReturnCashOffset,"Derivative Asset, Collateral, Obligation to Return Cash, Offset",USD,2024-12-31,27303000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DerivativeCollateralObligationToReturnCash,"Derivative, Collateral, Obligation to Return Cash",USD,2024-12-31,808000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DerivativeCollateralRightToReclaimCash,"Derivative, Collateral, Right to Reclaim Cash",USD,2024-12-31,52000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DerivativeCollateralRightToReclaimSecurities,"Derivative, Collateral, Right to Reclaim Securities",USD,2024-12-31,3376000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DerivativeCreditRiskValuationAdjustmentDerivativeAssets,"Derivative Credit Risk Valuation Adjustment, Derivative Assets",USD,2024-12-31,545000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DerivativeCreditRiskValuationAdjustmentDerivativeLiabilities,"Derivative Credit Risk Valuation Adjustment, Derivative Liabilities",USD,2024-12-31,346000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DerivativeLiabilityCollateralRightToReclaimCashOffset,"Derivative Liability, Collateral, Right to Reclaim Cash, Offset",USD,2024-12-31,28570000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DerivativeNetLiabilityPositionAggregateFairValue,"Derivative, Net Liability Position, Aggregate Fair Value",USD,2024-12-31,15000000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DiscontinuedOperationIncomeLossFromDiscontinuedOperationBeforeIncomeTax,"Discontinued Operation, Income (Loss) from Discontinued Operation, before Income Tax",USD,2024-12-31,-2000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,DiscontinuedOperationIncomeLossFromDiscontinuedOperationDuringPhaseOutPeriodNetOfTax,"Discontinued Operation, Income (Loss) from Discontinued Operation During Phase-out Period, Net of Tax",USD,2024-12-31,-2000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,DiscontinuedOperationTaxEffectOfDiscontinuedOperation,"Discontinued Operation, Tax Effect of Discontinued Operation",USD,2024-12-31,0.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,DisposalGroupIncludingDiscontinuedOperationGrossProfitLoss,"Disposal Group, Including Discontinued Operation, Gross Profit (Loss)",USD,2024-12-31,0.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024,2024-01-01
+us-gaap,DisposalGroupNotDiscontinuedOperationGainLossOnDisposal,"Disposal Group, Not Discontinued Operation, Gain (Loss) on Disposal",USD,2024-12-31,0.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,DividendIncomeOperating,"Dividend Income, Operating",USD,2024-12-31,367000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,DividendsPreferredStock,"Dividends, Preferred Stock",USD,2024-12-31,1054000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,EarningsPerShareBasic,"Earnings Per Share, Basic",USD/shares,2024-12-31,6.03,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,EarningsPerShareDiluted,"Earnings Per Share, Diluted",USD/shares,2024-12-31,5.94,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,EffectiveIncomeTaxRateContinuingOperations,"Effective Income Tax Rate Reconciliation, Percent",pure,2024-12-31,0.247,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,EffectiveIncomeTaxRateReconciliationAtFederalStatutoryIncomeTaxRate,"Effective Income Tax Rate Reconciliation, at Federal Statutory Income Tax Rate, Percent",pure,2024-12-31,0.21,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,EffectiveIncomeTaxRateReconciliationChangeInDeferredTaxAssetsValuationAllowance,"Effective Income Tax Rate Reconciliation, Change in Deferred Tax Assets Valuation Allowance, Percent",pure,2024-12-31,0.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024,2024-01-01
+us-gaap,EffectiveIncomeTaxRateReconciliationForeignIncomeTaxRateDifferential,"Effective Income Tax Rate Reconciliation, Foreign Income Tax Rate Differential, Percent",pure,2024-12-31,0.049,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024,2024-01-01
+us-gaap,EffectiveIncomeTaxRateReconciliationNondeductibleExpense,"Effective Income Tax Rate Reconciliation, Nondeductible Expense, Percent",pure,2024-12-31,0.012,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024,2024-01-01
+us-gaap,EffectiveIncomeTaxRateReconciliationOtherAdjustments,"Effective Income Tax Rate Reconciliation, Other Adjustments, Percent",pure,2024-12-31,0.001,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024,2024-01-01
+us-gaap,EffectiveIncomeTaxRateReconciliationStateAndLocalIncomeTaxes,"Effective Income Tax Rate Reconciliation, State and Local Income Taxes, Percent",pure,2024-12-31,0.016,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,EffectiveIncomeTaxRateReconciliationTaxExemptIncome,"Effective Income Tax Rate Reconciliation, Tax Exempt Income, Percent",pure,2024-12-31,0.042,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024,2024-01-01
+us-gaap,EffectiveIncomeTaxRateReconciliationTaxSettlements,"Effective Income Tax Rate Reconciliation, Tax Settlement, Percent",pure,2024-12-31,0.001,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024,2024-01-01
+us-gaap,EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,"Effect of Exchange Rate on Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",USD,2024-12-31,-12677000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,EmployeeServiceShareBasedCompensationNonvestedAwardsTotalCompensationCostNotYetRecognizedShareBasedAwardsOtherThanOptions,"Share-based Payment Arrangement, Nonvested Award, Excluding Option, Cost Not yet Recognized, Amount",USD,2024-12-31,1100000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,EquitySecuritiesFvNi,"Equity Securities, FV-NI",USD,2024-12-31,578000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,EquitySecuritiesWithoutReadilyDeterminableFairValueAmount,"Equity Securities without Readily Determinable Fair Value, Amount",USD,2024-12-31,1574000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,EquitySecuritiesWithoutReadilyDeterminableFairValueDownwardPriceAdjustmentAnnualAmount,"Equity Securities without Readily Determinable Fair Value, Downward Price Adjustment, Annual Amount",USD,2024-12-31,5000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,EquitySecuritiesWithoutReadilyDeterminableFairValueDownwardPriceAdjustmentCumulativeAmount,"Equity Securities without Readily Determinable Fair Value, Downward Price Adjustment, Cumulative Amount",USD,2024-12-31,38000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,EquitySecuritiesWithoutReadilyDeterminableFairValueImpairmentLossAnnualAmount,"Equity Securities without Readily Determinable Fair Value, Impairment Loss, Annual Amount",USD,2024-12-31,108000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,EquitySecuritiesWithoutReadilyDeterminableFairValueImpairmentLossCumulativeAmount,"Equity Securities without Readily Determinable Fair Value, Impairment Loss, Cumulative Amount",USD,2024-12-31,438000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,EquitySecuritiesWithoutReadilyDeterminableFairValueUpwardPriceAdjustmentAnnualAmount,"Equity Securities without Readily Determinable Fair Value, Upward Price Adjustment, Annual Amount",USD,2024-12-31,84000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,EquitySecuritiesWithoutReadilyDeterminableFairValueUpwardPriceAdjustmentCumulativeAmount,"Equity Securities without Readily Determinable Fair Value, Upward Price Adjustment, Cumulative Amount",USD,2024-12-31,1033000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,FairValueOfSecuritiesReceivedAsCollateralThatCanBeResoldOrRepledged,Fair Value of Securities Received as Collateral that Can be Resold or Repledged,USD,2024-12-31,844800000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,FederalHomeLoanBankAdvancesMaturitiesSummaryDueWithinOneYearOfBalanceSheetDate,"Federal Home Loan Bank, Advance, Maturity, Year One",USD,2024-12-31,5000000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,FinancialAssetsSoldUnderAgreementsToRepurchaseGrossIncludingNotSubjectToMasterNettingArrangement,"Financial Assets Sold under Agreements to Repurchase, Gross Including Not Subject to Master Netting Arrangement",USD,2024-12-31,563539000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,FinancingReceivableAllowanceForCreditLossesCollectivelyEvaluatedForImpairment,"Financing Receivable, Allowance for Credit Losses, Collectively Evaluated for Impairment",USD,2024-12-31,18221000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,FinancingReceivableAllowanceForCreditLossesIndividuallyEvaluatedForImpairment1,"Financing Receivable, Allowance for Credit Losses, Individually Evaluated for Impairment",USD,2024-12-31,340000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,FinancingReceivableAllowanceForCreditLossesRecovery,"Financing Receivable, Allowance for Credit Loss, Recovery",USD,2024-12-31,1694000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,FinancingReceivableAllowanceForCreditLossesWriteOffs,"Financing Receivable, Allowance for Credit Loss, Writeoff",USD,2024-12-31,10694000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,FinancingReceivableAllowanceForCreditLossPurchasedWithCreditDeteriorationIncrease,"Financing Receivable, Allowance for Credit Loss, Purchased with Credit Deterioration, Increase",USD,2024-12-31,23000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,FinancingReceivableAllowanceForCreditLossWriteoffAfterRecovery,"Financing Receivable, Allowance for Credit Loss, Writeoff, after Recovery",USD,2024-12-31,9000000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,FinancingReceivableCollectivelyEvaluatedForImpairment,"Financing Receivable, Collectively Evaluated for Impairment",USD,2024-12-31,684812000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,FinancingReceivableIndividuallyEvaluatedForImpairment,"Financing Receivable, Individually Evaluated for Impairment",USD,2024-12-31,1511000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,FinancingReceivableReclassificationToHeldForSale,"Financing Receivable, Reclassification to Held-for-sale",USD,2024-12-31,5535000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,FiniteLivedIntangibleAssetsAmortizationExpenseNextTwelveMonths,"Finite-Lived Intangible Asset, Expected Amortization, Year One",USD,2024-12-31,243000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,FiniteLivedIntangibleAssetsAmortizationExpenseYearFive,"Finite-Lived Intangible Asset, Expected Amortization, Year Five",USD,2024-12-31,182000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,FiniteLivedIntangibleAssetsAmortizationExpenseYearFour,"Finite-Lived Intangible Asset, Expected Amortization, Year Four",USD,2024-12-31,213000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,FiniteLivedIntangibleAssetsAmortizationExpenseYearThree,"Finite-Lived Intangible Asset, Expected Amortization, Year Three",USD,2024-12-31,225000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,FiniteLivedIntangibleAssetsAmortizationExpenseYearTwo,"Finite-Lived Intangible Asset, Expected Amortization, Year Two",USD,2024-12-31,233000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,Goodwill,Goodwill,USD,2024-12-31,19300000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,GoodwillForeignCurrencyTranslationGainLoss,"Goodwill, Foreign Currency Translation Gain (Loss)",USD,2024-12-31,-782000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,GoodwillImpairmentLoss,"Goodwill, Impairment Loss",USD,2024-12-31,0.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,GoodwillWrittenOffRelatedToSaleOfBusinessUnit,"Goodwill, Written off Related to Sale of Business Unit",USD,2024-12-31,16000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,GuaranteeObligationsCurrentCarryingValue,"Guarantor Obligations, Current Carrying Value",USD,2024-12-31,964000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,GuaranteeObligationsMaximumExposure,"Guarantor Obligations, Maximum Exposure, Undiscounted",USD,2024-12-31,523400000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,HedgedAssetFairValueHedgeLastOfLayerAmount,"Hedged Asset, Fair Value Hedge, Last-of-Layer, Amount",USD,2024-12-31,12900000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,HedgedAssetFairValueHedgeLastOfLayerCumulativeIncreaseDecrease,"Hedged Asset, Fair Value Hedge, Last-of-Layer, Cumulative Increase (Decrease)",USD,2024-12-31,-72000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,HedgedLiabilityDiscontinuedFairValueHedgeCumulativeIncreaseDecrease,"Hedged Liability, Discontinued Fair Value Hedge, Cumulative Increase (Decrease)",USD,2024-12-31,-4499000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,HedgedLiabilityFairValueHedge,"Hedged Liability, Fair Value Hedge",USD,2024-12-31,147910000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,HedgedLiabilityFairValueHedgeCumulativeIncreaseDecrease,"Hedged Liability, Fair Value Hedge, Cumulative Increase (Decrease)",USD,2024-12-31,-1051000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,HeldToMaturitySecuritiesAccumulatedUnrecognizedHoldingGain,"Debt Securities, Held-to-maturity, Accumulated Unrecognized Gain",USD,2024-12-31,133000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,HeldToMaturitySecuritiesAccumulatedUnrecognizedHoldingLoss,"Debt Securities, Held-to-maturity, Accumulated Unrecognized Loss",USD,2024-12-31,18105000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,HeldToMaturitySecuritiesFairValue,"Debt Securities, Held-to-maturity, Fair Value",USD,2024-12-31,224410000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,HeldToMaturitySecuritiesRestricted,"Debt Securities, Held-to-maturity, Restricted",USD,2024-12-31,0.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,IncomeLossFromContinuingOperations,"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",USD,2024-12-31,12684000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",USD,2024-12-31,17046000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,IncomeLossFromContinuingOperationsBeforeIncomeTaxesForeign,"Income (Loss) from Continuing Operations before Income Taxes, Foreign",USD,2024-12-31,19400000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest,"Income (Loss) from Continuing Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",USD,2024-12-31,12835000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,IncomeLossFromContinuingOperationsPerBasicShare,"Income (Loss) from Continuing Operations, Per Basic Share",USD/shares,2024-12-31,6.03,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,IncomeLossFromContinuingOperationsPerDilutedShare,"Income (Loss) from Continuing Operations, Per Diluted Share",USD/shares,2024-12-31,5.95,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,IncomeLossFromDiscontinuedOperationsNetOfTax,"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",USD,2024-12-31,-2000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare,"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",USD/shares,2024-12-31,0.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare,"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",USD/shares,2024-12-31,0.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,IncomeTaxExpenseBenefit,Income Tax Expense (Benefit),USD,2024-12-31,4211000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,IncomeTaxesPaidNet,"Income Taxes Paid, Net",USD,2024-12-31,5798000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,IncreaseDecreaseInBrokerDealerRelatedReceivablesPayablesNet,"Increase (Decrease) in Broker-Dealer Related Receivables (Payables), Net",USD,2024-12-31,-6136000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,IncreaseDecreaseInDeposits,Increase (Decrease) in Deposits,USD,2024-12-31,-24223000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,IncreaseDecreaseInFederalFundsPurchasedAndSecuritiesSoldUnderAgreementsToRepurchaseNet,"Increase (Decrease) in Federal Funds Purchased and Securities Sold under Agreements to Repurchase, Net",USD,2024-12-31,-23352000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,IncreaseDecreaseInLoansHeldForSale,Increase (Decrease) in Loans Held-for-sale,USD,2024-12-31,776000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,IncreaseDecreaseInOtherOperatingAssets,Increase (Decrease) in Other Operating Assets,USD,2024-12-31,4026000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,IncreaseDecreaseInOtherOperatingLiabilities,Increase (Decrease) in Other Operating Liabilities,USD,2024-12-31,-7692000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,IncreaseDecreaseInTradingLiabilities,Increase (Decrease) in Trading Liabilities,USD,2024-12-31,-21499000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,IncreaseDecreaseInTradingSecurities,"Increase (Decrease) in Debt Securities, Trading, and Equity Securities, FV-NI",USD,2024-12-31,31174000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,IncrementalCommonSharesAttributableToShareBasedPaymentArrangements,Incremental Common Shares Attributable to Dilutive Effect of Share-based Payment Arrangements,shares,2024-12-31,38700000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,IntangibleAssetsNetExcludingGoodwill,"Intangible Assets, Net (Excluding Goodwill)",USD,2024-12-31,4494000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,InterestAndDividendIncomeOperating,"Interest and Dividend Income, Operating",USD,2024-12-31,143713000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,InterestAndFeeIncomeLoansAndLeases,"Interest and Fee Income, Loans and Leases",USD,2024-12-31,62104000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,InterestBearingDepositLiabilitiesDomestic,"Interest-bearing Deposit Liabilities, Domestic",USD,2024-12-31,551547000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,InterestBearingDepositLiabilitiesForeign,"Interest-bearing Deposit Liabilities, Foreign",USD,2024-12-31,525224000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,InterestBearingDepositsInBanks,Interest-bearing Deposits in Banks and Other Financial Institutions,USD,2024-12-31,253750000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,InterestExpenseDeposits,"Interest Expense, Deposits",USD,2024-12-31,40326000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,InterestExpenseFederalFundsPurchasedAndSecuritiesSoldUnderAgreementsToRepurchase,"Interest Expense, Federal Funds Purchased and Securities Sold under Agreements to Repurchase",USD,2024-12-31,27884000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,InterestExpenseLongTermDebt,"Interest Expense, Long-term Debt",USD,2024-12-31,10355000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,InterestExpenseShortTermBorrowingsExcludingFederalFundsAndSecuritiesSoldUnderAgreementsToRepurchase,"Interest Expense, Short-term Borrowings Excluding Federal Funds and Securities Sold under Agreements to Repurchase",USD,2024-12-31,7703000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,InterestExpenseTradingLiabilities,"Interest Expense, Trading Liabilities",USD,2024-12-31,3350000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,InterestIncomeDebtSecuritiesTradingOperating,"Interest Income, Debt Securities, Trading, Operating",USD,2024-12-31,17576000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,InterestIncomeDepositsWithFinancialInstitutions,"Interest Income, Deposits with Financial Institutions",USD,2024-12-31,11417000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,InterestIncomeExpenseAfterProvisionForLoanLoss,"Interest Income (Expense), after Provision for Loan Loss",USD,2024-12-31,44369000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,InterestIncomeExpenseNet,"Interest Income (Expense), Net",USD,2024-12-31,54095000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,InterestIncomeFederalFundsSoldAndSecuritiesPurchasedUnderAgreementsToResell,"Interest Income, Federal Funds Sold and Securities Purchased under Agreements to Resell",USD,2024-12-31,29173000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,InterestIncomeSecuritiesTaxable,"Interest Income, Securities, Operating, Taxable",USD,2024-12-31,17978000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,InterestIncomeSecuritiesTaxExempt,"Interest Income, Securities, Operating, Tax Exempt",USD,2024-12-31,317000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,InterestPaidNet,"Interest Paid, Excluding Capitalized Interest, Operating Activities",USD,2024-12-31,88027000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,InvestmentBankingAdvisoryBrokerageAndUnderwritingFeesAndCommissions,"Investment Banking, Advisory, Brokerage, and Underwriting Fees and Commissions",USD,2024-12-31,10653000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,LaborAndRelatedExpense,Labor and Related Expense,USD,2024-12-31,28542000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,LesseeOperatingLeaseLiabilityPaymentsDue,"Lessee, Operating Lease, Liability, to be Paid",USD,2024-12-31,3459000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,LesseeOperatingLeaseLiabilityPaymentsDueAfterYearFive,"Lessee, Operating Lease, Liability, to be Paid, after Year Five",USD,2024-12-31,865000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,LesseeOperatingLeaseLiabilityPaymentsDueNextTwelveMonths,"Lessee, Operating Lease, Liability, to be Paid, Year One",USD,2024-12-31,709000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,LesseeOperatingLeaseLiabilityPaymentsDueYearFive,"Lessee, Operating Lease, Liability, to be Paid, Year Five",USD,2024-12-31,317000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,LesseeOperatingLeaseLiabilityPaymentsDueYearFour,"Lessee, Operating Lease, Liability, to be Paid, Year Four",USD,2024-12-31,418000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,LesseeOperatingLeaseLiabilityPaymentsDueYearThree,"Lessee, Operating Lease, Liability, to be Paid, Year Three",USD,2024-12-31,514000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,LesseeOperatingLeaseLiabilityPaymentsDueYearTwo,"Lessee, Operating Lease, Liability, to be Paid, Year Two",USD,2024-12-31,636000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,LesseeOperatingLeaseLiabilityUndiscountedExcessAmount,"Lessee, Operating Lease, Liability, Undiscounted Excess Amount",USD,2024-12-31,446000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,Liabilities,Liabilities,USD,2024-12-31,2143579000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,LiabilitiesAndStockholdersEquity,Liabilities and Equity,USD,2024-12-31,2352945000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,LoansReceivableFairValueDisclosure,"Loans Receivable, Fair Value Disclosure",USD,2024-12-31,8040000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,LoansReceivableHeldForSaleReconciliationToCashFlowAdditionsToHeldForSale,"Loans Receivable Held-for-sale, Reconciliation to Cash Flow, Additions to Held-for-sale",USD,2024-12-31,0.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,LongTermDebt,Long-term Debt,USD,2024-12-31,287300000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,LongTermDebtMaturitiesRepaymentsOfPrincipalAfterYearFive,"Long-Term Debt, Maturity, after Year Five",USD,2024-12-31,117155000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,LongTermDebtMaturitiesRepaymentsOfPrincipalInNextTwelveMonths,"Long-Term Debt, Maturity, Year One",USD,2024-12-31,41875000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,LongTermDebtMaturitiesRepaymentsOfPrincipalInYearFive,"Long-Term Debt, Maturity, Year Five",USD,2024-12-31,17822000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,LongTermDebtMaturitiesRepaymentsOfPrincipalInYearFour,"Long-Term Debt, Maturity, Year Four",USD,2024-12-31,29256000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,LongTermDebtMaturitiesRepaymentsOfPrincipalInYearThree,"Long-Term Debt, Maturity, Year Three",USD,2024-12-31,30323000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,LongTermDebtMaturitiesRepaymentsOfPrincipalInYearTwo,"Long-Term Debt, Maturity, Year Two",USD,2024-12-31,50869000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,LongtermDebtWeightedAverageInterestRate,"Long-term Debt, Weighted Average Interest Rate, at Point in Time",pure,2024-12-31,0.0426,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,MarketableSecuritiesRealizedGainLossExcludingOtherThanTemporaryImpairments,"Marketable Securities, Realized Gain (Loss), Excluding Other-than-temporary Impairment Loss",USD,2024-12-31,328000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,MarketingAndAdvertisingExpense,Marketing and Advertising Expense,USD,2024-12-31,1113000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,MinorityInterest,Stockholders' Equity Attributable to Noncontrolling Interest,USD,2024-12-31,768000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,NetCashProvidedByUsedInFinancingActivities,Net Cash Provided by (Used in) Financing Activities,USD,2024-12-31,-38304000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,NetCashProvidedByUsedInInvestingActivities,Net Cash Provided by (Used in) Investing Activities,USD,2024-12-31,86250000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,NetCashProvidedByUsedInOperatingActivities,Net Cash Provided by (Used in) Operating Activities,USD,2024-12-31,-19669000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,NetIncomeLoss,Net Income (Loss) Attributable to Parent,USD,2024-12-31,12682000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,NetIncomeLossAttributableToNoncontrollingInterest,Net Income (Loss) Attributable to Noncontrolling Interest,USD,2024-12-31,151000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,NetIncomeLossAvailableToCommonStockholdersBasic,"Net Income (Loss) Available to Common Stockholders, Basic",USD,2024-12-31,11458000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,NetIncomeLossAvailableToCommonStockholdersDiluted,"Net Income (Loss) Available to Common Stockholders, Diluted",USD,2024-12-31,11532000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,NoninterestBearingDepositLiabilitiesDomestic,"Noninterest-bearing Deposit Liabilities, Domestic",USD,2024-12-31,123338000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,NoninterestBearingDepositLiabilitiesForeign,"Noninterest-bearing Deposit Liabilities, Foreign",USD,2024-12-31,84349000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,NoninterestExpense,Noninterest Expense,USD,2024-12-31,53984000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,NoninterestIncome,Noninterest Income,USD,2024-12-31,27044000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,NotesReceivableGross,"Financing Receivable, before Allowance for Credit Loss",USD,2024-12-31,694488000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,NumberOfOperatingSegments,Number of Operating Segments,segment,2024-12-31,5.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024,2024-01-01
+us-gaap,OccupancyNet,"Occupancy, Net",USD,2024-12-31,2438000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,OffBalanceSheetCreditLossLiability,"Off-Balance Sheet, Credit Loss, Liability",USD,2024-12-31,1601000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,OffBalanceSheetCreditLossLiabilityCreditLossExpenseReversal,"Off-Balance Sheet, Credit Loss, Liability, Credit Loss Expense (Reversal)",USD,2024-12-31,-119000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,OperatingLeaseCost,"Operating Lease, Cost",USD,2024-12-31,842000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,OperatingLeaseLiability,"Operating Lease, Liability",USD,2024-12-31,3013000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,OperatingLeasePayments,"Operating Lease, Payments",USD,2024-12-31,729000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,OperatingLeaseRightOfUseAsset,"Operating Lease, Right-of-Use Asset",USD,2024-12-31,2836000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,OtherAssets,Other Assets,USD,2024-12-31,102206000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,OtherComprehensiveIncomeAvailableforsaleSecuritiesAdjustmentNetOfTaxPortionAttributableToParent,"Other Comprehensive Income (Loss), Available-for-sale Securities Adjustment, Net of Tax, Portion Attributable to Parent",USD,2024-12-31,907000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,OtherComprehensiveIncomeDefinedBenefitPlansAdjustmentNetOfTaxPortionAttributableToParent,"Other Comprehensive (Income) Loss, Defined Benefit Plan, after Tax and Reclassification Adjustment, Attributable to Parent",USD,2024-12-31,-423000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent,"Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Adjustment, Net of Tax, Portion Attributable to Parent",USD,2024-12-31,-5162000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTaxParent,"Other Comprehensive Income (Loss), Cash Flow Hedge, Gain (Loss), after Reclassification and Tax, Parent",USD,2024-12-31,1186000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationBeforeTaxParent,"Other Comprehensive Income (Loss), Cash Flow Hedge, Gain (Loss), after Reclassification, before Tax, Parent",USD,2024-12-31,469000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,OtherComprehensiveIncomeLossDerivativeExcludedComponentIncreaseDecreaseAfterAdjustmentsAndTaxParent,"Other Comprehensive Income (Loss), Derivative, Excluded Component, Increase (Decrease), after Adjustments and Tax, Parent",USD,2024-12-31,-12000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,OtherComprehensiveIncomeLossFinancialLiabilityFairValueOptionReclassificationAdjustmentFromAociForDerecognitionAfterTax,"Other Comprehensive Income (Loss), Financial Liability, Fair Value Option, Reclassification Adjustment from AOCI for Derecognition, after Tax",USD,2024-12-31,-573000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToNoncontrollingInterest,"Other Comprehensive Income (Loss), Net of Tax, Portion Attributable to Noncontrolling Interest",USD,2024-12-31,-61000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent,"Other Comprehensive Income (Loss), Net of Tax, Portion Attributable to Parent",USD,2024-12-31,-3052000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,OtherComprehensiveIncomeLossTaxPortionAttributableToParent1,"Other Comprehensive Income (Loss), Tax, Portion Attributable to Parent",USD,2024-12-31,1035000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,OtherInterestAndDividendIncome,Other Interest and Dividend Income,USD,2024-12-31,4781000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,OtherLiabilities,Other Liabilities,USD,2024-12-31,68114000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,OtherNoncashIncomeExpense,Other Noncash Income (Expense),USD,2024-12-31,-14051000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,OtherNoninterestExpense,Other Noninterest Expense,USD,2024-12-31,7007000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,OtherNonoperatingIncomeExpense,Other Nonoperating Income (Expense),USD,2024-12-31,706000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,OtherShortTermBorrowings,Other Short-term Borrowings,USD,2024-12-31,19589000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,PaymentsForProceedsFromOtherInvestingActivities,Payments for (Proceeds from) Other Investing Activities,USD,2024-12-31,-2512000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,PaymentsForProceedsFromOtherLoansAndLeases,Payments for (Proceeds from) Other Loans and Leases,USD,2024-12-31,20455000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,PaymentsForRepurchaseOfCommonStock,Payments for Repurchase of Common Stock,USD,2024-12-31,2474000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,PaymentsForRepurchaseOfPreferredStockAndPreferenceStock,Payments for Repurchase of Preferred Stock and Preference Stock,USD,2024-12-31,5050000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,PaymentsOfDividends,Payments of Dividends,USD,2024-12-31,5199000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,PaymentsRelatedToTaxWithholdingForShareBasedCompensation,"Payment, Tax Withholding, Share-based Payment Arrangement",USD,2024-12-31,454000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,PaymentsToAcquireHeldToMaturitySecurities,Payments to Acquire Held-to-maturity Securities,USD,2024-12-31,16492000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,PaymentsToAcquirePropertyPlantAndEquipment,"Payments to Acquire Property, Plant, and Equipment",USD,2024-12-31,6500000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,PolicyholderBenefitsAndClaimsIncurredNet,"Policyholder Benefits and Claims Incurred, Net",USD,2024-12-31,90000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,PreferredStockParOrStatedValuePerShare,"Preferred Stock, Par or Stated Value Per Share",USD/shares,2024-12-31,1.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,PreferredStockSharesAuthorized,"Preferred Stock, Shares Authorized",shares,2024-12-31,30000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,PreferredStockSharesIssued,"Preferred Stock, Shares Issued",shares,2024-12-31,714000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,PreferredStockValue,"Preferred Stock, Value, Issued",USD,2024-12-31,17850000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,PrincipalTransactionsRevenue,"Principal Transactions Revenue, Net",USD,2024-12-31,11653000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,ProceedsFromIssuanceOfLongTermDebt,Proceeds from Issuance of Long-term Debt,USD,2024-12-31,99075000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,ProceedsFromIssuanceOfPreferredStockAndPreferenceStock,Proceeds from Issuance of Preferred Stock and Preference Stock,USD,2024-12-31,5282000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,ProceedsFromPaymentsForFederalFundsSoldAndSecuritiesPurchasedUnderAgreementsToResellNet,"Proceeds from (Payments for) Federal Funds Sold and Securities Purchased under Agreements to Resell, Net",USD,2024-12-31,71638000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,ProceedsFromSaleOfLoansAndLeasesHeldForInvestment,Proceeds from Sale of Loans and Leases Held-for-investment,USD,2024-12-31,5316000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,ProceedsFromSaleOfProductiveAssets,Proceeds from Sale of Productive Assets,USD,2024-12-31,222000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,ProfitLoss,"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",USD,2024-12-31,12833000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,ProvisionForLoanLossesExpensed,"Financing Receivable, Credit Loss, Expense (Reversal)",USD,2024-12-31,9726000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,ReceivablesFromBrokersDealersAndClearingOrganizations,Receivables from Brokers-Dealers and Clearing Organizations,USD,2024-12-31,32329000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,ReceivablesFromCustomers,Receivables from Customers,USD,2024-12-31,18512000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,RepaymentsOfLongTermDebtAndCapitalSecurities,"Repayment of Long-term Debt, Long-term Lease Obligation, and Capital Security",USD,2024-12-31,92957000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,RestrictedCash,Restricted Cash,USD,2024-12-31,19542000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,RestructuringCharges,Restructuring Charges,USD,2024-12-31,259000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,RetainedEarningsAccumulatedDeficit,Retained Earnings (Accumulated Deficit),USD,2024-12-31,206294000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,Revenues,Revenues,USD,2024-12-31,81139000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability,Right-of-Use Asset Obtained in Exchange for Operating Lease Liability,USD,2024-12-31,777000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,SecuredBorrowingsGrossIncludingNotSubjectToMasterNettingArrangement,"Secured Borrowings, Gross Including Not Subject to Master Netting Arrangement",USD,2024-12-31,597854000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,SecuritiesBorrowedAmountOffsetAgainstCollateral,"Securities Borrowed, Amount Offset Against Collateral",USD,2024-12-31,58887000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,SecuritiesBorrowedCollateralObligationToReturnSecurities,"Securities Borrowed, Collateral, Obligation to Return Securities",USD,2024-12-31,22228000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,SecuritiesBorrowedGross,"Securities Borrowed, Gross",USD,2024-12-31,100442000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,SecuritiesBorrowedLiability,"Securities Borrowed, Liability",USD,2024-12-31,19327000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,SecuritiesLoanedAmountOffsetAgainstCollateral,"Securities Loaned, Amount Offset Against Collateral",USD,2024-12-31,2671000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,SecuritiesLoanedAsset,"Securities Loaned, Asset",USD,2024-12-31,19327000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,SecuritiesLoanedCollateralRightToReclaimSecurities,"Securities Loaned, Collateral, Right to Reclaim Securities",USD,2024-12-31,12317000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,SecuritiesLoanedGross,"Securities Loaned, Gross",USD,2024-12-31,34315000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,SecuritiesLoanedGrossIncludingNotSubjectToMasterNettingArrangement,"Securities Loaned, Gross Including Not Subject to Master Netting Arrangement",USD,2024-12-31,34315000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,SecuritiesPurchasedUnderAgreementsToResell,Securities Purchased under Agreements to Resell,USD,2024-12-31,192950000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,SecuritiesPurchasedUnderAgreementsToResellAmountOffsetAgainstCollateral,"Securities Purchased under Agreements to Resell, Amount Offset Against Collateral",USD,2024-12-31,6829000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,SecuritiesPurchasedUnderAgreementsToResellCollateralObligationToReturnSecurities,"Securities Purchased under Agreements to Resell, Collateral, Obligation to Return Securities",USD,2024-12-31,186121000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,SecuritiesPurchasedUnderAgreementsToResellGross,"Securities Purchased under Agreements to Resell, Gross",USD,2024-12-31,516722000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,SecuritiesPurchasedUnderAgreementsToResellLiability,"Securities Purchased under Agreements to Resell, Liability",USD,2024-12-31,323772000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,SecuritiesReceivedAsCollateral,Securities Received as Collateral,USD,2024-12-31,5200000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,SecuritiesSoldUnderAgreementsToRepurchase,Securities Sold under Agreements to Repurchase,USD,2024-12-31,239767000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,SecuritiesSoldUnderAgreementsToRepurchaseAmountOffsetAgainstCollateral,"Securities Sold under Agreements to Repurchase, Amount Offset Against Collateral",USD,2024-12-31,46053000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,SecuritiesSoldUnderAgreementsToRepurchaseAsset,"Securities Sold under Agreements to Repurchase, Asset",USD,2024-12-31,323772000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,SecuritiesSoldUnderAgreementsToRepurchaseCollateralRightToReclaimSecurities,"Securities Sold under Agreements to Repurchase, Collateral, Right to Reclaim Securities",USD,2024-12-31,193714000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,SecuritiesSoldUnderAgreementsToRepurchaseGross,"Securities Sold under Agreements to Repurchase, Gross",USD,2024-12-31,563539000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,ShareBasedCompensationArrangementByShareBasedPaymentAwardNumberOfSharesAvailableForGrant,"Share-based Compensation Arrangement by Share-based Payment Award, Number of Shares Available for Grant",shares,2024-12-31,42300000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,ShortTermBorrowings,Short-term Debt,USD,2024-12-31,48505000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,StockholdersEquity,Stockholders' Equity Attributable to Parent,USD,2024-12-31,208598000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",USD,2024-12-31,209366000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,SubleaseIncome,Sublease Income,USD,2024-12-31,9000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,TierOneLeverageCapitalRequiredForCapitalAdequacyToAverageAssets,"Banking Regulation, Tier One Leverage Capital Ratio, Capital Adequacy, Minimum",pure,2024-12-31,0.04,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,TierOneRiskBasedCapitalRequiredForCapitalAdequacyToRiskWeightedAssets,"Banking Regulation, Tier One Risk-Based Capital Ratio, Capital Adequacy, Minimum",pure,2024-12-31,0.06,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,TradingLiabilities,Trading Liabilities,USD,2024-12-31,133846000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,TradingSecurities,"Debt Securities, Trading, and Equity Securities, FV-NI",USD,2024-12-31,442747000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,UndistributedEarningsOfForeignSubsidiaries,Undistributed Earnings of Foreign Subsidiaries,USD,2024-12-31,5800000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,UnrecognizedTaxBenefits,Unrecognized Tax Benefits,USD,2024-12-31,1309000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,UnrecognizedTaxBenefitsDecreasesResultingFromPriorPeriodTaxPositions,"Unrecognized Tax Benefits, Decrease Resulting from Prior Period Tax Positions",USD,2024-12-31,50000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,UnrecognizedTaxBenefitsDecreasesResultingFromSettlementsWithTaxingAuthorities,"Unrecognized Tax Benefits, Decrease Resulting from Settlements with Taxing Authorities",USD,2024-12-31,0.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,UnrecognizedTaxBenefitsIncomeTaxPenaltiesAndInterestAccrued,"Unrecognized Tax Benefits, Income Tax Penalties and Interest Accrued",USD,2024-12-31,309000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,UnrecognizedTaxBenefitsIncomeTaxPenaltiesAndInterestExpense,"Unrecognized Tax Benefits, Income Tax Penalties and Interest Expense",USD,2024-12-31,53000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,UnrecognizedTaxBenefitsIncreasesResultingFromCurrentPeriodTaxPositions,"Unrecognized Tax Benefits, Increase Resulting from Current Period Tax Positions",USD,2024-12-31,79000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,UnrecognizedTaxBenefitsIncreasesResultingFromPriorPeriodTaxPositions,"Unrecognized Tax Benefits, Increase Resulting from Prior Period Tax Positions",USD,2024-12-31,27000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,UnrecognizedTaxBenefitsReductionsResultingFromLapseOfApplicableStatuteOfLimitations,"Unrecognized Tax Benefits, Reduction Resulting from Lapse of Applicable Statute of Limitations",USD,2024-12-31,15000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,UnrecognizedTaxBenefitsThatWouldImpactEffectiveTaxRate,Unrecognized Tax Benefits that Would Impact Effective Tax Rate,USD,2024-12-31,1000000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,ValuationAllowanceDeferredTaxAssetChangeInAmount,"Valuation Allowance, Deferred Tax Asset, Increase (Decrease), Amount",USD,2024-12-31,700000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024,2024-01-01
+us-gaap,VariableInterestEntityEntityMaximumLossExposureAmount,"Variable Interest Entity, Reporting Entity Involvement, Maximum Loss Exposure, Amount",USD,2024-12-31,84624000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,WeightedAverageNumberOfDilutedSharesOutstanding,"Weighted Average Number of Shares Outstanding, Diluted",shares,2024-12-31,1940100000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,WeightedAverageNumberOfSharesOutstandingBasic,"Weighted Average Number of Shares Outstanding, Basic",shares,2024-12-31,1901400000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,DebtSecuritiesAvailableForSaleWeightedAverageYield,,pure,2024-12-31,0.0422,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,DebtSecuritiesHeldToMaturityWeightedAverageYield,,pure,2024-12-31,0.0238,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,IncomeTaxEffectsAllocatedDirectlyToEquityEquityTransactions,"Income Tax Effects Allocated Directly to Equity, Equity Transactions",USD,2024-12-31,-5000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,PaymentsToAcquireAvailableForSaleSecuritiesDebt,"Payments to Acquire Debt Securities, Available-for-sale",USD,2024-12-31,250932000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities,"Proceeds from Maturities, Prepayments and Calls of Debt Securities, Available-for-sale",USD,2024-12-31,216386000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,ProceedsFromSaleOfAvailableForSaleSecuritiesDebt,"Proceeds from Sale of Debt Securities, Available-for-sale",USD,2024-12-31,57526000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,DerivativeAssetFairValueGrossAssetIncludingNotSubjectToMasterNettingArrangement,"Derivative Asset, Fair Value, Gross Asset Including Not Subject to Master Netting Arrangement",USD,2024-12-31,422802000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DerivativeAssetFairValueGrossLiability,"Derivative Asset, Fair Value, Gross Liability",USD,2024-12-31,334900000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DerivativeAssets,Derivative Asset,USD,2024-12-31,60599000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DerivativeCollateralObligationToReturnSecurities,"Derivative, Collateral, Obligation to Return Securities",USD,2024-12-31,6017000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DerivativeLiabilities,Derivative Liability,USD,2024-12-31,48298000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DerivativeLiabilityFairValueGrossAsset,"Derivative Liability, Fair Value, Gross Asset",USD,2024-12-31,334900000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DerivativeLiabilityFairValueGrossLiabilityIncludingNotSubjectToMasterNettingArrangement,"Derivative Liability, Fair Value, Gross Liability Including Not Subject to Master Netting Arrangement",USD,2024-12-31,411768000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,NumberOfCountriesInWhichEntityOperates,Number of Countries in which Entity Operates,country,2024-12-31,20.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,TreasuryStockCommonShares,"Treasury Stock, Common, Shares",shares,2024-12-31,1222647540.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,TreasuryStockCommonValue,"Treasury Stock, Common, Value",USD,2024-12-31,76842000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DerivativeAssetFairValueOffsetAgainstCollateralNetOfNotSubjectToMasterNettingArrangementPolicyElection,"Derivative Asset, Fair Value, Offset Against Collateral, Net of Not Subject to Master Netting Arrangement, Policy Election",USD,2024-12-31,53774000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,DerivativeLiabilityFairValueOffsetAgainstCollateralNetOfNotSubjectToMasterNettingArrangementPolicyElection,"Derivative Liability, Fair Value, Offset Against Collateral, Net of Not Subject to Master Netting Arrangement, Policy Election",USD,2024-12-31,44870000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,InterestReceivable,Interest Receivable,USD,2024-12-31,2000000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,LesseeOperatingLeaseDiscountRate,"Lessee, Operating Lease, Discount Rate",pure,2024-12-31,0.041,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,OtherAssetImpairmentCharges,Other Asset Impairment Charges,USD,2024-12-31,431000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,ProceedsFromSaleAndMaturityOfHeldToMaturitySecurities,Proceeds from Sale and Maturity of Held-to-maturity Securities,USD,2024-12-31,27729000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024,2024-01-01
+us-gaap,PropertyPlantAndEquipmentAndFinanceLeaseRightOfUseAssetAfterAccumulatedDepreciationAndAmortization,"Property, Plant, and Equipment and Finance Lease Right-of-Use Asset, after Accumulated Depreciation and Amortization",USD,2024-12-31,30192000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,TimeDepositMaturitiesAfterYearFive,"Time Deposit Maturities, after Year Five",USD,2024-12-31,129000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,TimeDepositMaturitiesYearFive,"Time Deposit Maturities, Year Five",USD,2024-12-31,211000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,TimeDepositMaturitiesYearFour,"Time Deposit Maturities, Year Four",USD,2024-12-31,239000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,TimeDepositMaturitiesYearOne,"Time Deposit Maturities, Year One",USD,2024-12-31,232536000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,TimeDepositMaturitiesYearThree,"Time Deposit Maturities, Year Three",USD,2024-12-31,401000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,TimeDepositMaturitiesYearTwo,"Time Deposit Maturities, Year Two",USD,2024-12-31,2784000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,TimeDeposits,Time Deposits,USD,2024-12-31,236300000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,TimeDepositsAtOrAboveFDICInsuranceLimit,"Time Deposits, at or Above FDIC Insurance Limit",USD,2024-12-31,187262000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DebtSecuritiesAvailableForSaleAmortizedCostAllowanceForCreditLossExcludingAccruedInterest,,USD,2024-12-31,6000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DebtSecuritiesAvailableForSaleExcludingAccruedInterest,,USD,2024-12-31,226876000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DebtSecuritiesHeldToMaturityAllowanceForCreditLossExcludingAccruedInterest,,USD,2024-12-31,137000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DebtSecuritiesHeldToMaturityExcludingAccruedInterestAfterAllowanceForCreditLoss,,USD,2024-12-31,242382000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,DebtSecuritiesHeldToMaturityExcludingAccruedInterestCreditLossExpenseReversal,,USD,2024-12-31,50000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,DebtSecuritiesHeldToMaturityTransferAmount,"Debt Securities, Held-to-maturity, Transfer, Amount",USD,2024-12-31,0.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,FinancingReceivableAllowanceForCreditLossExcludingAccruedInterest,,USD,2024-12-31,18574000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,FinancingReceivableExcludingAccruedInterestAfterAllowanceForCreditLoss,,USD,2024-12-31,675914000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,FinancingReceivableExcludingAccruedInterestBeforeAllowanceForCreditLoss,,USD,2024-12-31,694488000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,FinancingReceivableExcludingAccruedInterestCreditLossExpenseReversal,,USD,2024-12-31,9726000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,LiabilityForFuturePolicyBenefitAfterReinsurance,"Liability for Future Policy Benefit, after Reinsurance",USD,2024-12-31,413000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,OciLiabilityForFuturePolicyBenefitGainLossAfterReclassificationAdjustmentAndTaxParent,,USD,2024-12-31,18000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,DeferredTaxLiabilitiesDerivatives,"Deferred Tax Liabilities, Derivatives",USD,2024-12-31,0.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,EmployeeServiceShareBasedCompensationTaxBenefitFromCompensationExpense,"Share-based Payment Arrangement, Expense, Tax Benefit",USD,2024-12-31,428000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,ExciseAndSalesTaxes,Excise and Sales Taxes,USD,2024-12-31,14000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024,2024-01-01
+us-gaap,LeaseCost,"Lease, Cost",USD,2024-12-31,1046000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,RestructuringReserve,Restructuring Reserve,USD,2024-12-31,42000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,
+us-gaap,RestructuringReserveTranslationAdjustment,"Restructuring Reserve, Foreign Currency Translation Gain (Loss)",USD,2024-12-31,7000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,VariableLeaseCost,"Variable Lease, Cost",USD,2024-12-31,204000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,LossContingencyEstimateOfPossibleLoss,"Loss Contingency, Estimate of Possible Loss",USD,2024-12-31,1300000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,UnrecordedUnconditionalPurchaseObligationBalanceSheetAmount,Unrecorded Unconditional Purchase Obligation,USD,2024-12-31,255000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,CY2024Q4I,
+us-gaap,OtherComprehensiveIncomeLossFinancialLiabilityFairValueOptionAfterTaxAndReclassificationAdjustmentAttributableToParent,"Other Comprehensive Income (Loss), Financial Liability, Fair Value Option, after Tax and Reclassification Adjustment, Attributable to Parent",USD,2024-12-31,-412000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,FinancingReceivablePurchasedWithCreditDeteriorationAmountAtParValue,"Financing Receivable, Purchased with Credit Deterioration, Amount at Par Value",USD,2024-12-31,52000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,InterestExpenseOperating,,USD,2024-12-31,89618000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,PaymentsToAcquireFinanceReceivables,Payments to Acquire Finance Receivables,USD,2024-12-31,700000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
+us-gaap,ProfessionalFees,Professional Fees,USD,2024-12-31,2016000000.0,0000831001-25-000067,2024.0,FY,10-K,2025-02-21,,2024-01-01
