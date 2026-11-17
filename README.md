@@ -1,6 +1,3 @@
-<!-- BORRADOR v2 · 14-nov-2026 · Estado: puntos 1 a 4 redactados en registro académico.
-     Antes de publicar: autoevaluación de preguntas_comprobacion_v2.md aprobada y checklist de cierre.
-     Borrar este comentario al publicar. -->
 
 # Simulación financiera: estructura de balance, riesgo de mercado, selección de portafolio y pronóstico de precios (versión 2)
 
